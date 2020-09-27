@@ -1,0 +1,2 @@
+add_subdirectory(browser)
+add_subdirectory(picture)
